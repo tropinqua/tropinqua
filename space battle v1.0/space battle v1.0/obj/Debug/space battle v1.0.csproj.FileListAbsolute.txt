@@ -1,0 +1,76 @@
+C:\Users\PC\source\repos\space battle v1.0\space battle v1.0\bin\Debug\space battle v1.0.exe.config
+C:\Users\PC\source\repos\space battle v1.0\space battle v1.0\bin\Debug\space battle v1.0.exe
+C:\Users\PC\source\repos\space battle v1.0\space battle v1.0\bin\Debug\space battle v1.0.pdb
+C:\Users\PC\source\repos\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\space battle v1.0\space battle v1.0\obj\Debug\MainWindow.g.cs
+C:\Users\PC\source\repos\space battle v1.0\space battle v1.0\obj\Debug\App.g.cs
+C:\Users\PC\source\repos\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0_MarkupCompile.cache
+C:\Users\PC\source\repos\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0_MarkupCompile.lref
+C:\Users\PC\source\repos\space battle v1.0\space battle v1.0\obj\Debug\MainWindow.baml
+C:\Users\PC\source\repos\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.g.resources
+C:\Users\PC\source\repos\space battle v1.0\space battle v1.0\obj\Debug\space_battle_v1._0.Properties.Resources.resources
+C:\Users\PC\source\repos\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.exe
+C:\Users\PC\source\repos\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.pdb
+C:\Users\Sofia\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\space battle v1.0.exe.config
+C:\Users\Sofia\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\space battle v1.0.exe
+C:\Users\Sofia\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\space battle v1.0.pdb
+C:\Users\Sofia\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.csproj.AssemblyReference.cache
+C:\Users\Sofia\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\MainWindow.g.cs
+C:\Users\Sofia\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\App.g.cs
+C:\Users\Sofia\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0_MarkupCompile.cache
+C:\Users\Sofia\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0_MarkupCompile.lref
+C:\Users\Sofia\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\MainWindow.baml
+C:\Users\Sofia\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.g.resources
+C:\Users\Sofia\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space_battle_v1._0.Properties.Resources.resources
+C:\Users\Sofia\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.csproj.GenerateResource.cache
+C:\Users\Sofia\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Sofia\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.exe
+C:\Users\Sofia\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.pdb
+\\iscsi\profstud\MuhomedyarovMA\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.csproj.AssemblyReference.cache
+\\iscsi\profstud\MuhomedyarovMA\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\MainWindow.baml
+\\iscsi\profstud\MuhomedyarovMA\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\MainWindow.g.cs
+\\iscsi\profstud\MuhomedyarovMA\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\App.g.cs
+\\iscsi\profstud\MuhomedyarovMA\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0_MarkupCompile.cache
+\\iscsi\profstud\MuhomedyarovMA\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.g.resources
+\\iscsi\profstud\MuhomedyarovMA\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space_battle_v1._0.Properties.Resources.resources
+\\iscsi\profstud\MuhomedyarovMA\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.csproj.GenerateResource.cache
+\\iscsi\profstud\MuhomedyarovMA\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.csproj.CoreCompileInputs.cache
+\\iscsi\profstud\MuhomedyarovMA\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.exe
+\\iscsi\profstud\MuhomedyarovMA\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.pdb
+\\iscsi\profstud\MuhomedyarovMA\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\space battle v1.0.exe.config
+\\iscsi\profstud\MuhomedyarovMA\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\space battle v1.0.exe
+\\iscsi\profstud\MuhomedyarovMA\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\space battle v1.0.pdb
+\\iscsi\profstud\MuhomedyarovMA\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\EntityFramework.dll
+\\iscsi\profstud\MuhomedyarovMA\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\EntityFramework.SqlServer.dll
+\\iscsi\profstud\MuhomedyarovMA\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\System.Data.SQLite.dll
+\\iscsi\profstud\MuhomedyarovMA\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\System.Data.SQLite.EF6.dll
+\\iscsi\profstud\MuhomedyarovMA\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\System.Data.SQLite.Linq.dll
+\\iscsi\profstud\MuhomedyarovMA\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\EntityFramework.xml
+\\iscsi\profstud\MuhomedyarovMA\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\EntityFramework.SqlServer.xml
+\\iscsi\profstud\MuhomedyarovMA\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\System.Data.SQLite.xml
+\\iscsi\profstud\MuhomedyarovMA\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space ba.D1C78E1E.Up2Date
+C:\Users\PC\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\space battle v1.0.exe.config
+C:\Users\PC\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\space battle v1.0.exe
+C:\Users\PC\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\space battle v1.0.pdb
+C:\Users\PC\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\System.Data.SQLite.dll
+C:\Users\PC\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\PC\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\PC\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\123\space battle v1.0\space battle v1.0\bin\Debug\System.Data.SQLite.xml
+C:\Users\PC\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0_MarkupCompile.cache
+C:\Users\PC\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.g.resources
+C:\Users\PC\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space_battle_v1._0.Properties.Resources.resources
+C:\Users\PC\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space ba.D1C78E1E.Up2Date
+C:\Users\PC\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.exe
+C:\Users\PC\Desktop\123\space battle v1.0\space battle v1.0\obj\Debug\space battle v1.0.pdb
